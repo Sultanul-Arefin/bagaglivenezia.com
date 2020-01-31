@@ -1,0 +1,1062 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+
+
+strong {
+	font-weight: 700 !important;
+}
+
+
+
+.about-page-area.section-padding {
+    padding: 50px 0px;
+}
+.breadcrumbs a {
+    color: #fff;
+}
+/* .lgx-carousel-section .lgx-carousel .lgx-item{
+	height: 450px;
+	width: 100%;
+	background-size: cover;
+}
+.owl-theme .owl-controls .owl-nav div.owl-prev::before {
+	content: " " !important;
+}
+.owl-theme .owl-controls .owl-nav div.owl-next::before {
+	content: " " !important;
+}
+.lgx-carousel-section .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
+	background: none !important;
+}
+.bagslider-text {
+	position: absolute;
+	bottom: 20px;
+	right: 7%;
+}
+.bagslider-text h4{
+	color: #fff !important;
+}
+.best-price-area {
+	padding-top: 60px !important;
+	
+} */
+
+
+/* Footer css style*/
+
+.footer-area .widget-cm h2 {
+	position: relative;
+	font-size: 20px;
+	font-weight: 500;
+	color: #ffffff;
+	text-transform: capitalize;
+	font-family: 'Poppins', sans-serif;
+}
+
+.footer-area .widget-cm h3 {
+	font-size: 16px;
+	color: #ccc;
+}
+
+ul.ft-main-menu {
+	float: right;
+}
+
+ul.ft-main-menu li {
+	display: inline-block;
+}
+
+ul.ft-main-menu li a {
+	color: #fff;
+	padding: 5px 10px;
+	display: block;
+	font-size: 16px;
+}
+
+.sl-menu-wrap {
+	display: flex;
+	width: 100%;
+}
+
+.sl-menu-wrap .number {
+	float: left;
+	padding: 7px 27px;
+	color: #736e6e;
+	font-size: 14px;
+}
+.sl-hd h2 {
+	font-size: 16px !important;
+	margin-right: 5px;
+	padding: 7px 0px;
+	margin-left: 20px;
+	color: #fff;
+}
+.social-icon-one {
+	position: relative;
+}
+
+.social-icon-one li {
+	position: relative;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.social-icon-one li a {
+	width: 36px;
+	height: 36px;
+	font-size: 16px;
+	text-align: center;
+	border-radius: 50%;
+	line-height: 34px;
+	color: #fff;
+	display: inline-block;
+	border: 1px solid #fff;
+	-webkit-transition: all 300ms ease;
+	-ms-transition: all 300ms ease;
+	-o-transition: all 300ms ease;
+	-moz-transition: all 300ms ease;
+	transition: all 300ms ease;
+}
+
+/* Booking page style */
+.partner-area{
+	display: none;
+}
+.content.booking-page-form{
+	padding: 65px 0;
+	position: relative;
+}
+
+.widget-content {
+	float: right;
+	text-align: right;
+	margin-top: 7px;
+	margin-right: 10px;
+}
+.footer-mn-main{
+	min-height: 35px
+}
+
+.number {
+	clear: both;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+	color: #fff;
+}
+.translateb {
+	position: fixed;
+	top: 250px;
+	right: 0px;
+	z-index: 99;
+	width: 47px;
+	background: #1da1f2;
+}
+.translateb a {
+	width: 70%;
+	float: right;
+	position: relative;
+}
+
+
+a.glink {
+	text-decoration: none;
+	margin-bottom: 4px;
+	background: #1da1f2;
+	padding: 9px 0px;
+	width: 48px;
+	height: 48px;
+	display: inline-block;
+	text-align: center;
+}
+.translateb{
+	background: none
+}
+.wpcf7-submit {
+	background: #012b72 !important;
+	margin-top: 20px;
+	padding: 0 40px;
+	color: #fff !important;
+	height: 40px;
+	border: 1px solid #012b72 !important;
+}
+.wpcf7-textarea {
+	width: 100% !important;
+}
+.about-page-area h2 {
+	margin-bottom: 20px;
+}
+#wpgmza_map {
+	margin-top: 7px;
+	margin-left: 0px;
+}
+.wpcf7-form p {
+	margin-bottom: 15px;
+}
+
+#promo_services {
+	padding: 50px 0;
+}
+.section_header h2{
+    margin-bottom: 50px;
+    position: relative;
+    line-height: 35px;
+}
+
+
+
+
+
+.section_header h2, .single_promo h3 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.single_promo {
+	margin-bottom: 25px;
+}
+.single_promo h3{
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.section_header h2:after {
+	position: absolute;
+	bottom: -19px;
+	left: 50%;
+	content: '';
+	width: 70px;
+	height: 2px;
+	margin-left: -35px;
+	background-color: #00baf3;
+}
+
+.single_promo i {
+	background: #00baf3;
+	font-size: 50px;
+	color: #fff;
+	border-radius: 100%;
+	text-align: center;
+	height: 160px;
+	width: 160px;
+	margin-bottom: 30px;
+	padding-top: 52px;
+	transition: 300ms;
+	border: 4px solid #00baf3;
+}
+
+.single_promo i:hover {
+	background: #fff;
+	color: #00baf3;
+}
+div.owl-theme .owl-controls {
+	margin-top: 0px;
+}
+.owl-theme .owl-controls .owl-nav div.owl-prev {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+}
+.owl-theme .owl-controls .owl-nav div.owl-next {
+    position: absolute;
+    top: 50%;
+    right: 50px;
+}
+.contact_section_bag .widget-inner, .contact_section_bag a {
+	color: #fff;
+}
+.contact_section_bag h2{
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff;
+}
+
+
+
+/* Contact page form */
+
+
+.bg-white {
+    background-color: #fff !important;
+    border: 2px solid #efefef !important;
+    border-radius: 5px !important;
+}
+
+section#paymentform {
+    position: absolute;
+    top: 70px;
+    right: 100px;
+    width: 400px;
+    z-index: 9 !important;
+}
+
+.formmain {
+	background: #fff;
+	position: absolute;
+}
+
+.lgx-carousel-section .lgx-carousel .lgx-item {
+	height: 600px !important;
+}
+div#main-menu {
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+
+@media (max-width: 575.98px) {
+	section#paymentform {
+	    position: initial;
+	    top: 0;
+	    right: 0;
+	    width: 330px;
+	    margin: 0 auto;
+	}
+	.lgx-carousel-section .lgx-carousel .lgx-item {
+		height: 360px !important;
+	}
+	.owl-theme .owl-controls .owl-nav div.owl-prev {
+	    position: absolute;
+	    top: 40% !important;
+	    left: 15px !important;
+	}
+	.owl-theme .owl-controls .owl-nav div.owl-next {
+	    top: 40% !important;
+	    right: 15px !important;
+	    position: absolute;
+	}
+	div#main-menu-mobi {
+	    display: inline-block !important;
+	}
+	.phone-number {
+	    display: block !important;
+	    z-index: 101;
+	    position: relative !important;
+	}
+}
+
+
+.datetimepicker {
+	width: 250px !important;
+}
+
+
+@media (min-width: 576px) {
+	.mobile {
+		display: none !important;
+	}	
+}
+@media (max-width: 575.98px) {
+	.pc {
+		display: none !important;
+	}
+}
+div#footer-logo {
+    width: 20%;
+    float: left;
+    margin-top: 5px;
+}
+div#footer-name {
+    width: 70%;
+    text-align: center;
+    font-size: 25px;
+    float: right;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 8px;
+    border-left: 1px solid;
+}
+div#footer-details p {
+    font-size: 14px;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    font-weight: 300;
+}
+div#footer-details h3 {
+    text-align: center;
+    color: #fff;
+}
+div#footer-details .sl-mn {
+    text-align: center;
+}
+div#footer-details h4 {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+}
+div#logo img {
+    width: 40% !important;
+    background: #444;
+}
+div#footer-details {
+    margin-top: 20px;
+}
+
+label {
+    width: 100%;
+}
+
+.overlaydisplay {
+    background: rgba(0,0,0,.0);
+    width: 83%;
+    height: 50px;
+    position: absolute;
+    z-index: 200;
+}
+/*.overlaydisplay {
+    background: rgba(0,0,0,.7);
+    width: 100%;
+    height: 476px;
+    position: absolute;
+    z-index: 200;
+
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    padding: 100px 45px;
+    color: #fff;
+}*/
+.overlaynone {
+	display: none;
+}
+/*@media (max-width: 574.98px) {
+	.overlaydisplay {
+		height: 595px !important;
+	}
+}*/
+
+.fa-facebook-official:before {
+    content: "\f230";
+    font-size: 30px !important;
+    margin-right: 20px !important;
+}
+#flags {
+    width: auto !important;
+    margin-top: 5px !important;
+}
+
+#google_map {
+	width: 100%;
+	position: relative;
+}
+#dirbtn {
+    position: absolute;
+    bottom: 8%;
+    left: 3%;
+    background: #fff;
+    padding: 20px;
+    border: 3px solid #f1f1f1;
+}
+.db-img {
+	float: left;
+	margin-right: 10px;
+	margin-top: -5px;
+}
+.db-line {
+	float: left;
+}
+@media (min-width: 575px) {
+	.dirbtn {
+		display: none;
+	}
+}
+@media (max-width: 574.98px) {
+	#google_map {
+		height: 420px;
+		overflow: hidden;
+	}
+	#dirbtn {
+		display: none;
+	}
+}
+h2 {
+    font-size: 26px !important;
+}
+.switcher .option {
+	position: absolute !important;
+}
+
+@media (max-width: 580px) {
+	.selected a img {
+	    display: inline-block !important;
+	    margin: 0 auto;
+	    width: 16px;
+	}
+	.card-image img {
+		height: 250px !important;
+	}
+}
+
+
+div#main-menu2 li {
+	padding: 10px !important;
+	font-size: 16px !important;
+}
+
+#gmap {
+	position: relative;
+	text-align: center;
+}
+#information {
+	font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 13%;
+    vertical-align: middle;
+    display: inline-block;
+	width: 100%;
+	height: auto;
+}
+#information .bookingform .form-submit-area {
+	top: -6%;
+}
+#header .logo_title {
+    margin: 0 auto;
+}
+.mont-font {
+	font-family: 'Montserrat', sans-serif;
+    line-height: 40px;
+    color: #000;
+}
+.card-image img {
+    height: 350px;
+    object-fit: cover;
+    width: 100%;
+}
+.info-card {
+    background: #fff;
+    border-radius: 5px;
+    padding: 35px;
+    float: left;
+    width: 35%;
+    margin-left: 5% !important;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: justify;
+}
+.info-card h3, h4 {
+    margin-bottom: 5px;
+    font-weight: 400 !important;
+}
+.b-form {
+    width: 25% !important;;
+    float: right;
+    margin-right: 5%;
+}
+
+@media (max-width: 574.99px) {
+	#gmap {
+		height: 350px;
+		overflow: hidden;
+	}
+	#information {
+		position: relative;
+	}
+	.info-card {
+	    background: #fff;
+	    padding: 30px;
+	    width: 100%;
+	    margin-left: 0% !important;
+	    position: unset !important;
+	    border-radius: 0px !important;
+	    float: unset !important;
+	}
+	.b-form {
+	    width: 90% !important;
+	    margin-left: 5% !important;
+	    margin-right: 5% !important;
+	    float: unset;
+	    margin-bottom: 20px;
+	}
+}
+.payform {
+    background-image: url(http://www.bagaglivenezia.com/wp-content/uploads/2019/05/vanice.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.ct-title {
+	font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 25px;
+    font-weight: 300;
+    padding: 20px;
+}
+.ct-info {
+	font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 17px;
+    padding:20px 20px;
+}
+.ct-info span {
+	font-weight: 300;
+	font-style: italic; 
+	color: #ff0000;
+}
+.card-image {
+    position: relative;
+}
+.ct-img-title {
+    position: absolute;
+    bottom: 15%;
+    left: 50%;
+    width: 300px;
+    background: #FFFF00;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: -150px;
+    color: #000;
+}
+
+.offertext {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #fff;
+    background: #167C02;
+    font-weight: 300;
+}
+.offertext span {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+.otbg {
+    background: #167C02;
+    width: 100%;
+    margin-bottom: -5px;
+    z-index: 1;
+    padding: 15px 10px;
+    border-radius: 5px 5px 0 0;
+}
+
+@media (max-width: 580px) {
+	.option img {
+	    width: 16px !important;
+	}
+}
+
+.datetimepicker table tr td span.disabled, .datetimepicker table tr td span.disabled:hover {
+	display: none !important;
+}
+.mfp {
+	font-size: 17px;
+    font-weight: 300;
+    line-height: 30px !important;
+}
+.mont-font h3 {
+	margin-bottom: 10px;
+}
+.mont-font img {
+    width: 100%;
+    height: 340px !important;
+    object-fit: cover;
+}
+.datetimepicker table tr td.disabled, .datetimepicker table tr td.disabled:hover {
+	opacity: 0.2 !important;
+}
+
+
+/*Footer New CSS*/
+.footer-area {
+    background-color: #012b72;
+    padding: 20px 0 0 0 !important;
+}
+.footerpc {
+	background: #167C02;
+	padding: 15px;
+}
+.footerleft {
+	width: 40%;
+	float: left;
+	padding: 0 15px;
+}
+.footerright {
+	width: 60%;
+	float: right;
+	padding: 0 15px;
+	color: #fff;
+}
+.footerright h2 {
+	color: #fff;
+}
+.footerright p {
+	font-size: 14px;
+}
+.footerlogo img {
+	float: left;
+	width: 50px;
+	margin-right: 10px;
+}
+.footertitle {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 10px;
+}
+.copyright {
+    background: #000;
+    padding: 5px;
+    font-weight: 300 !important;
+}
+.copyright h4 {
+    color: #fff;
+    font-size: 15px;
+}
+.social-icon-one li a {
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 15px !important;
+    line-height: 26px !important;
+}
+ul.ft-main-menu li a {
+    padding: 2px 10px !important;
+}
+
+.best-price-area {
+    padding-top: 0px !important;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+}
+.single_promo i {
+	height: 100px !important;
+	width: 100px !important;
+	font-size: 40px !important;
+	padding-top: 27px !important;
+	background: #167C02 !important;
+	border: 4px solid #167C02 !important;
+}
+.single_promo p {
+    font-size: 16px;
+    text-align: justify;
+    text-align-last: center;
+}
+
+.section_header h2:after {
+	background-color: #167C02 !important;
+}
+
+.maintitle {
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	border-bottom: 2px solid #f1f1f1;
+}
+.maintitle span {
+	font-size: 20px;
+	font-weight: 300;
+}
+.highlight a {
+    font-weight: 700 !important;
+    color: #f00;
+}
+
+.dirbtn {
+    border-radius: 30px;
+    background: #f00;
+    color: #fff;
+    padding: 5px 20px;
+    bottom: 50px;
+    left: 15px;
+}
+.dirbtn a {
+	color: #fff;
+}
+
+.input-form.select-box, input[type="text"] {
+    border: 1px solid #ccc;
+}
+.box-time.select-box.input-form {
+    border: 0px;
+}
+
+/* .DOPBSPCalendar-sidebar .dopbsp-sidebar-content td {
+	float: left !important;
+} */
+
+
+
+/* Form CSS 16052019 */
+/* .dopbsp-row1 {
+    width: 100%;
+}
+#DOPBSPCalendar-search1 {
+    width: 100% !important;
+}
+.dopbsp-input-wrapper.DOPBSPCalendar-left {
+    width: 48% !important;
+}
+.DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type="text"].DOPBSPCalendar-check-in-view, .DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type="text"].DOPBSPCalendar-check-out-view {
+    width: 76% !important;
+}
+
+@media (max-width:579.98px) {
+	.DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type="text"].DOPBSPCalendar-check-in-view, .DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type="text"].DOPBSPCalendar-check-out-view {
+		width: 70% !important;
+	}
+}
+
+#DOPBSPCalendar-extras1 .dopbsp-input-wrapper {
+    width: 50% !important;
+	overflow: hidden;
+	float: left;
+}
+.DOPBSPCalendar-sidebar .DOPSelect, .DOPBSPCalendar-outer-sidebar .DOPSelect {
+	width: 100% !important;
+} */
+
+#DOPBSPCalendar-extras1 h4 {
+    display: none !important;
+}
+.DOPBSPCalendar-sidebar.dopbsp-style-small .dopbsp-module, .DOPBSPCalendar-outer-sidebar.dopbsp-style-small .dopbsp-module {
+	margin: 0px !important;
+}
+.DOPBSPCalendar-sidebar .dopbsp-module, .DOPBSPCalendar-outer-sidebar .dopbsp-module {
+	border: 1px solid #fff !important;
+}
+.DOPBSPCalendar-sidebar .dopbsp-module {
+	border: 0px solid !important;
+}
+
+
+.dopbsp-row1, .dopbsp-row2 {
+    width: 50% !important;
+	padding-top: 10px;
+}
+.DOPBSPCalendar-sidebar .DOPSelect, .DOPBSPCalendar-outer-sidebar .DOPSelect {
+    width: 168px !important;
+}
+.dopbsp-row1 {
+	float: left;
+	overflow: hidden;
+}
+.dopbsp-row2 {
+    float: left;
+}
+span.dopbsp-required {
+    display: none;
+}
+.dopbsp-input-wrapper.DOPBSPCalendar-left {
+    width: 58%;
+}
+
+.DOPBSPCalendar-sidebar .DOPSelect, .DOPBSPCalendar-outer-sidebar .DOPSelect {
+    width: 74% !important;
+}
+ 
+table.dopbsp-cart tbody tr:not(:last-child) {
+    display: none;
+}
+
+#DOPBSPCalendar-extras1 label {
+    margin-left: -190px;
+}
+div#DOPSelect-DOPBSPCalendar-extras-group1-5 {
+    margin-left: -190px;
+    width: 156% !important;
+}
+
+@media (max-width: 579.98px) {
+	.DOPBSPCalendar-sidebar .DOPSelect, .DOPBSPCalendar-outer-sidebar .DOPSelect {
+		width: 59% !important;
+	}
+	.DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type=text].DOPBSPCalendar-check-in-view {
+		width: 74% !important;
+	}
+	.DOPBSPCalendar-sidebar .dopbsp-module .dopbsp-input-wrapper input[type=text].DOPBSPCalendar-check-out-view {
+		width: 74% !important;
+	}
+	#DOPBSPCalendar-extras1 label {
+		margin-left: -156px !important;
+	}
+	div#DOPSelect-DOPBSPCalendar-extras-group1-5 {
+		margin-left: -156px !important;
+		width: 126% !important;
+	}
+}
+
+td#DOPBSPCalendar-sidebar-column-wrapper-1-1 {
+    background: #fff;
+}
+div#DOPBSPCalendar-form1 h4 {
+    display: none !important;
+}
+div#DOPBSPCalendar-reservation1 h4 {
+    display: none !important;
+}
+
+input#DOPBSPCalendar-form-field1_3 {
+    width: 94%;
+}
+div#DOPBSPCalendar-order1 h4 {
+    display: none !important;
+}
+div#DOPBSPCalendar-order1 {
+    padding-bottom: 10px;
+}
+.dopbsp-total {
+    border-left: 10px solid #fff !important;
+    border-right: 10px solid #fff !important;
+}
+label {
+    font-size: 15px !important;
+    font-style: normal !important;
+    color: #000 !important;
+    margin-bottom: 0px !important;
+}
+
+div#DOPSelect-DOPBSPCalendar-extras-group1-7, div#DOPSelect-DOPBSPCalendar-extras-group1-8 {
+    margin-top: -25px;
+}
+
+
+table.dopbsp-cart {
+    border-top: 2px solid #666 !important;
+}
+td.dopbsp-value {
+    text-align: right !important;
+}
+
+td.dopbsp-column-separator.dopbsp-column2, .dopbsp-column3 {
+    display: none !important;
+}
+
+
+input#DOPBSPCalendar-form-field1_9 {
+    width: 200px;
+    float: right;
+    margin-top: -25px;
+    margin-right: -5px;
+}
+
+.DOPBSPCalendar-sidebar .DOPSelect .dopselect-select, .DOPBSPCalendar-outer-sidebar .DOPSelect .dopselect-select {
+	border: 1px solid #ccc;
+}
+
+
+
+
+
+/*Custom Last Css*/
+header#header {
+	padding: 15px 0;
+}
+img.llogo {
+    width: 80px;
+}
+.mainmenu {
+	text-align: center;
+}
+.mainmenu ul li {
+    display: inline;
+    font-size: 18px;
+    padding: 10px;
+}
+.mainmenu ul li span {
+    color: #f00;
+    font-weight: 700;
+}
+
+#googlemap iframe{
+	width: 100%;
+	display: block;
+	pointer-events: none;
+	position: relative; /* IE needs a position other than static */
+}
+#googlemap iframe.clicked{
+	pointer-events: auto;
+}
+
+
+/*.skiptranslate.goog-te-gadget span {
+	display: none;
+}*/
+
+.goog-logo-link {
+   display:none !important;
+} 
+
+.goog-te-gadget{
+   color: transparent !important;
+}
+
+#googlemap {
+	position: relative;
+	width: 100%;
+	height: 600px;
+}
+.bookingform .form-submit-area {
+	position: absolute;
+	width: 350px;
+	right: 10%;
+	top: 7%;
+}
+
+#bookingpage .bookingform .form-submit-area {
+    top: 18% !important;
+}
+
+@media (max-width: 579.98px) {
+	#googlemap {
+		position: unset;
+		width: 100%;
+		height: 600px;
+	}
+	.bookingform .form-submit-area {
+		position: unset;
+		width: 80%;
+		text-align: center;
+		margin: 40px auto;
+	}
+}
+
+.form-content h4 {
+    background: #4CAF50 !important;
+    padding: 15px;
+    border-radius: 5px 5px 0 0;
+    color: #fff;
+}
+.form-content h4 span {
+    font-size: 15px;
+    color: #fff;
+}
+
+select, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], input[type="email"] {
+	height: 30px !important;
+	font-size: 13px !important;
+}
+input[type="email"] {
+    border: 1px solid #ccc;
+}
+.input-info-search {
+    padding: 10px 30px 10px !important;
+}
+.input-info-search .input-form.select-box:before, .input-info-search .input-form.date:before {
+	top: 4px !important;
+	right: 8px !important;
+	font-size: 13px !important;
+}
+.two-column.ctm-colloum p {
+	margin: 0px 0px !important;
+	font-size: 14px !important;
+}
+.submit-search {
+	padding: 10px 40px !important;
+}
+.total {
+	margin-bottom: 10px !important;
+}
+button.btn-primary {
+    padding: 15px;
+    width: 100%;
+	border-radius: 5px;
+	background: #012b72 !important;
+}
+
+
+
+
+.gj-datepicker-md [role=right-icon] {
+    display: none;
+}

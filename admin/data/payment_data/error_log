@@ -1,0 +1,238 @@
+[22-May-2019 09:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bagagliv/public_html/admin/data/payment_data/data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 24
+[22-May-2019 09:21:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 5
+[25-May-2019 09:39:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/piazalleroma.php on line 46
+[25-May-2019 09:50:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 49
+[25-May-2019 09:50:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 49
+[25-May-2019 11:54:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[25-May-2019 11:54:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[25-May-2019 11:54:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[25-May-2019 11:56:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 74
+[25-May-2019 11:56:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 74
+[25-May-2019 11:58:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 80
+[25-May-2019 11:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 80
+[25-May-2019 12:00:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 81
+[25-May-2019 12:00:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 81
+[25-May-2019 12:01:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 81
+[25-May-2019 12:02:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 81
+[25-May-2019 12:03:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 81
+[25-May-2019 12:04:42 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 9
+[25-May-2019 12:05:16 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 9
+[25-May-2019 12:11:44 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 75
+[25-May-2019 12:15:38 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 8
+[25-May-2019 12:17:04 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 75
+[25-May-2019 12:20:03 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 75
+[25-May-2019 12:23:08 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 8
+[25-May-2019 12:26:16 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 8
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:43:29 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 07:58:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 110
+[29-May-2019 07:58:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 110
+[29-May-2019 07:58:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 110
+[29-May-2019 08:02:50 UTC] PHP Parse error:  syntax error, unexpected 'deleteorder' (T_STRING), expecting ',' or ';' in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 70
+[29-May-2019 08:13:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 109
+[29-May-2019 08:13:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 109
+[29-May-2019 08:13:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 109
+[29-May-2019 08:14:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 109
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:14:48 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[29-May-2019 08:15:38 UTC] PHP Warning:  Use of undefined constant Delete - assumed 'Delete' (this will throw an Error in a future version of PHP) in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 71
+[27-Jun-2019 06:56:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 55
+[27-Jun-2019 06:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 55
+[27-Jun-2019 06:58:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 55
+[27-Jun-2019 06:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 55
+[27-Jun-2019 06:59:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 55
+[27-Jun-2019 07:05:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 62
+[27-Jun-2019 07:05:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 62
+[27-Jun-2019 07:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 62
+[27-Jun-2019 07:06:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 62
+[27-Jun-2019 07:06:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 62
+[27-Jun-2019 07:07:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/bagagliv/public_html/admin/data/payment_data/transaction.php on line 57
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
+[30-Jun-2019 07:55:52 UTC] PHP Warning:  A non-numeric value encountered in /home/bagagliv/public_html/admin/data/payment_data/data.php on line 84
