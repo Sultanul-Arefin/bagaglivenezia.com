@@ -17,7 +17,32 @@ class Welcome extends CI_Controller {
             } else{
                 redirect('welcome/login');
             }
-           
+        }
+
+        function site_info(){
+            if($this->session->userdata('logged')){
+                $info['site_info'] = $this->admin_model->site_info();
+                $this->load->view('header');
+                $this->load->view('navbar');
+                $this->load->view('site_info', $info);
+                $this->load->view('footer-login');
+            } else{
+                redirect('welcome/login');
+            }
+        }
+
+        function site_info_update(){
+            if($this->session->userdata('logged')){
+                $id = $this->input->post('id');
+                $data = [
+                    'shop'      => $this->input->post('shop'),
+                    'reason'    => $this->input->post('reason')
+                ];
+                $update = $this->admin_model->site_info_up($id, $data);
+                redirect('welcome/site_info');
+            } else{
+                redirect('welcme/login');
+            }
         }
         
         function login(){

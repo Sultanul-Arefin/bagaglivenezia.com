@@ -6,7 +6,8 @@
  */ 
   
 // PayPal configuration 
-define('PAYPAL_ID', 'johnalbert000439-facilitator@gmail.com'); 
+// define('PAYPAL_ID', 'johnalbert000439-facilitator@gmail.com'); 
+define('PAYPAL_ID', 'sb-2jtaa817001@business.example.com'); 
 // define('PAYPAL_ID', 'baggaglikuddus@gmail.com'); 
 define('PAYPAL_SANDBOX', TRUE); //TRUE or FALSE 
  

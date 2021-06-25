@@ -65,40 +65,6 @@
           </ul>
         </li>
         
-        <!--<li class="treeview">-->
-        <!--  <a href="#">-->
-        <!--    <i class="fa fa-share"></i> <span>Multilevel</span>-->
-        <!--    <span class="pull-right-container">-->
-        <!--      <i class="fa fa-angle-left pull-right"></i>-->
-        <!--    </span>-->
-        <!--  </a>-->
-        <!--  <ul class="treeview-menu">-->
-        <!--    <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>-->
-        <!--    <li class="treeview">-->
-        <!--      <a href="#"><i class="fa fa-circle-o"></i> Level One-->
-        <!--        <span class="pull-right-container">-->
-        <!--          <i class="fa fa-angle-left pull-right"></i>-->
-        <!--        </span>-->
-        <!--      </a>-->
-        <!--      <ul class="treeview-menu">-->
-        <!--        <li><a href="#"><i class="fa fa-circle-o"></i> Level Two</a></li>-->
-        <!--        <li class="treeview">-->
-        <!--          <a href="#"><i class="fa fa-circle-o"></i> Level Two-->
-        <!--            <span class="pull-right-container">-->
-        <!--              <i class="fa fa-angle-left pull-right"></i>-->
-        <!--            </span>-->
-        <!--          </a>-->
-        <!--          <ul class="treeview-menu">-->
-        <!--            <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>-->
-        <!--            <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>-->
-        <!--          </ul>-->
-        <!--        </li>-->
-        <!--      </ul>-->
-        <!--    </li>-->
-        <!--    <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>-->
-        <!--  </ul>-->
-        <!--</li>-->
-        
       </ul>
     </section>
     <!-- /.sidebar -->
@@ -108,9 +74,8 @@
   <div class="content-wrapper">
     
     <section class="content-header">
-      <h1>
-        Baggaglivenezia.com Admin Panel
-      </h1>
+      <h1>Baggaglivenezia.com Admin Panel</h1>
+      <h2>Shop On/Off Panel</h2>
       
     </section>
 
@@ -120,23 +85,14 @@
       <div class="row">
         <div class="col-md-3">
 
-          <form method="post" action="<?php echo base_url().'welcome/filter'; ?>" style="float:right; margin-bottom:20px">
-                <select name="month">
-                    <option value="01">January</option>
-                    <option value="02">February</option>
-                    <option value="03">March</option>
-                    <option value="04">April</option>
-                    <option value="05">May</option>
-                    <option value="06">June</option>
-                    <option value="07">July</option>
-                    <option value="08">August</option>
-                    <option value="09">September</option>
-                    <option value="10">October</option>
-                    <option value="11">November</option>
-                    <option value="12">December</option>
+          <form method="post" action="<?php echo base_url().'welcome/site_info_update'; ?>" style="float:right; margin-bottom:20px">
+                <input type="hidden" name="id" value="<?= $site_info->id; ?>">
+                <select name="shop">
+                    <option value="on" <?php echo ($site_info->shop == 'on') ? 'selected' : '' ?>>On</option>
+                    <option value="off" <?php echo ($site_info->shop == 'off') ? 'selected' : '' ?>>Off</option>
                 </select>
-                <input type="number" value="2019" name="year" min="2019">
-                <button>SUBMIT</button>
+                <textarea style="margin-top: 10px; margin-bottom: 10px;" name="reason" cols="30" rows="10"><?= $site_info->reason ?></textarea>
+                <button type="submit" class="btn btn-info">Update</button>
             </form>
 
           

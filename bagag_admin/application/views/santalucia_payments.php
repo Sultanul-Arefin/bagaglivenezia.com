@@ -30,6 +30,12 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">MAIN NAVIGATION</li>
+        <li>
+            <a href="<?php echo base_url().'welcome'; ?>"><i class="fa fa-circle-o"></i>Home</a>
+        </li>
+        <li>
+            <a href="<?php echo base_url().'welcome/site_info'; ?>"><i class="fa fa-circle-o"></i>Site Info</a>
+        </li>
         <li class="treeview">
           <a href="#">
             <i class="fa fa-dashboard"></i> <span>Orders</span>

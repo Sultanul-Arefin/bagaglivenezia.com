@@ -1,6 +1,16 @@
 <?php
 
     class Admin_model extends CI_Model{
+
+		public function site_info()
+		{
+			return $this->db->select('*')->from('shop')->get()->row();
+		}
+
+		public function site_info_up($id, $data)
+		{
+			$this->db->where('id', $id)->update('shop', $data);
+		}
         
         public function get($email, $password){
 			$this->db->select('*');
